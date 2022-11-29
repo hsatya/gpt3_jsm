@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gpt3_jsm/static/css/main.1a5bd81f.css",
+    "main.js": "/gpt3_jsm/static/js/main.b0725ed4.js",
+    "static/media/ai.png": "/gpt3_jsm/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/people.png": "/gpt3_jsm/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/gpt3_jsm/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/gpt3_jsm/index.html",
+    "main.1a5bd81f.css.map": "/gpt3_jsm/static/css/main.1a5bd81f.css.map",
+    "main.b0725ed4.js.map": "/gpt3_jsm/static/js/main.b0725ed4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a5bd81f.css",
+    "static/js/main.b0725ed4.js"
+  ]
+}
